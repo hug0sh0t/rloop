@@ -1,0 +1,113 @@
+RLOOP PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Rosario Reyes Solutions LLC.
+All rights reserved.
+
+This software, including all original source code, object code, database
+structures, workflows, user interfaces, documentation, designs, business
+logic, and related materials created specifically for the Rloop platform
+(the "Software"), is proprietary to Rosario Reyes Solutions LLC.
+
+1. OWNERSHIP
+
+Rosario Reyes Solutions LLC is the sole owner of the original Software,
+except for third-party software, frameworks, libraries, services, fonts,
+images, trademarks, and other components that remain subject to their own
+respective licenses and ownership rights.
+
+No ownership interest in the Software is transferred by publication,
+inspection, access, download, cloning, forking, or possession of a copy.
+
+2. NO GENERAL LICENSE GRANT
+
+Except where Rosario Reyes Solutions LLC provides prior express written
+permission, no person or entity may:
+
+- use the Software or any substantial portion of it;
+- copy, reproduce, modify, adapt, translate, or create derivative works;
+- distribute, publish, sublicense, sell, rent, lease, or commercially exploit it;
+- deploy, host, operate, or make the Software available as a service;
+- reverse engineer, decompile, disassemble, or attempt to derive protected
+  implementation details, except where such restriction is prohibited by law;
+- remove, alter, or obscure copyright, ownership, trademark, or attribution
+  notices; or
+- use the Software to create or operate a competing product or service.
+
+3. LIMITED REPOSITORY ACCESS
+
+When the Software is published in a public source-code repository, access is
+provided for viewing, evaluation, security review, and portfolio demonstration
+only. Repository-platform functionality, including cloning or forking, does
+not grant permission to use, modify, distribute, deploy, or commercially
+exploit the Software beyond rights that cannot legally be restricted or rights
+expressly provided by the repository platform's mandatory terms.
+
+4. AUTHORIZED USE
+
+Any authorized use must be documented in a separate written agreement signed
+by an authorized representative of Rosario Reyes Solutions LLC. That agreement
+may establish additional terms, restrictions, fees, confidentiality duties,
+support obligations, or termination rights.
+
+5. CONTRIBUTIONS
+
+Unless a separate written contributor agreement states otherwise, Rosario
+Reyes Solutions LLC does not accept contributions that impose third-party
+license obligations on the Software. Submission of an idea, issue, suggestion,
+or proposed change does not transfer ownership and does not create an
+obligation to use, compensate for, or maintain the submission.
+
+6. THIRD-PARTY COMPONENTS
+
+The Software may depend on or interact with third-party components. Those
+components are not relicensed under this License and remain governed by their
+respective license terms. Users are responsible for complying with all
+applicable third-party licenses and service terms.
+
+7. TRADEMARKS
+
+This License does not grant permission to use the names, logos, marks, branding,
+or trade dress of Rloop or Rosario Reyes Solutions LLC.
+
+8. CONFIDENTIALITY AND TRADE SECRETS
+
+Nothing in this License waives any trade-secret, confidentiality, contractual,
+or other proprietary rights held by Rosario Reyes Solutions LLC. Material made
+public intentionally is not treated as confidential solely under this section,
+but publication does not grant reuse rights.
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, ACCURACY, OR
+RELIABILITY.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ROSARIO REYES SOLUTIONS LLC AND ITS
+OWNERS, MEMBERS, MANAGERS, EMPLOYEES, CONTRACTORS, AND AFFILIATES SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS,
+OPPORTUNITY, OR GOODWILL, ARISING FROM OR RELATING TO THE SOFTWARE OR ITS USE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. TERMINATION
+
+Any permission granted separately terminates automatically upon breach of this
+License or the applicable written agreement. Upon termination, all unauthorized
+use must stop and all unauthorized copies must be destroyed, subject to legal
+record-retention requirements.
+
+12. RESERVATION OF RIGHTS
+
+All rights not expressly granted in a separate signed written agreement are
+reserved by Rosario Reyes Solutions LLC.
+
+13. CONTACT
+
+Licensing, commercial-use, partnership, or written-permission requests should
+be directed through the official Rloop or Rosario Reyes Solutions LLC contact
+channels.
+
+SPDX-License-Identifier: LicenseRef-Rloop-Proprietary-1.0
